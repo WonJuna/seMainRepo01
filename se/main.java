@@ -1,7 +1,7 @@
 package se;
 
 // 1: remote by WonJuna
-// 1: local by WonJuna
+// 2: local by WonJuna
 public class main {
 
 	public static void main(String[] args) {
